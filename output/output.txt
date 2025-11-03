@@ -1,1 +1,44 @@
-my output
+First 5 rows of data:
+                 Close  Day
+Date                       
+2023-01-01  151.490142    0
+2023-01-02  150.004375    1
+2023-01-03  152.781216    2
+2023-01-04  155.825851    3
+2023-01-05  150.972354    4 
+
+Mean Squared Error on Test Set: 122.80
+
+Predicted Closing Prices for Next 30 Days:
+Day  1: $211.59
+Day  2: $211.70
+Day  3: $211.82
+Day  4: $211.94
+Day  5: $212.05
+Day  6: $212.17
+Day  7: $212.28
+Day  8: $212.40
+Day  9: $212.52
+Day 10: $212.63
+Day 11: $212.75
+Day 12: $212.87
+Day 13: $212.98
+Day 14: $213.10
+Day 15: $213.22
+Day 16: $213.33
+Day 17: $213.45
+Day 18: $213.56
+Day 19: $213.68
+Day 20: $213.80
+Day 21: $213.91
+Day 22: $214.03
+Day 23: $214.15
+Day 24: $214.26
+Day 25: $214.38
+Day 26: $214.49
+Day 27: $214.61
+Day 28: $214.73
+Day 29: $214.84
+Day 30: $214.96
+/usr/local/lib/python3.12/dist-packages/sklearn/base.py:493: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
